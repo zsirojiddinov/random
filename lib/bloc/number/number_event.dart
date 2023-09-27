@@ -4,3 +4,5 @@ import 'package:flutter/widgets.dart';
 abstract class NumberEvent {}
 
 class GenerateEvent extends NumberEvent {}
+
+class DefaultEvent extends NumberEvent {}
