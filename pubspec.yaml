@@ -63,7 +63,7 @@ flutter_icons:
   android: true
   ios: true
   remove_alpha_ios: true
-#  image_path: 'images/app_logo.png'
+  image_path: 'images/app_logo.png'
 
   flutter_lints: ^2.0.0
   build_runner: ^1.11.1
